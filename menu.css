@@ -1,0 +1,10 @@
+.container{
+max-width: 375px;
+margin: auto;
+width: 100%;
+}
+.toggle-ul{
+    margin-top: 50px;
+    list-style-type: none;
+    border: hidden;
+}
